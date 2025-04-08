@@ -1,0 +1,4 @@
+﻿  arithmetic.c
+C:\Users\ljsh0\Desktop\Lab2\arithmetic.c(28,31): warning C4101: 'new_data': 未參考的區域變數
+C:\Users\ljsh0\Desktop\Lab2\arithmetic.c(34,18): warning C4101: 'temp': 未參考的區域變數
+  影像hw2_1.vcxproj -> C:\Users\ljsh0\source\repos\影像hw2_1\x64\Debug\影像hw2_1.exe

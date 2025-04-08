@@ -1,0 +1,16 @@
+﻿  Roberts.c
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(245,24): warning C4244: '=': 將 'double' 轉換為 'U_CHAR'，由於類型不同，可能導致資料遺失
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,58): warning C4101: 'nj': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,54): warning C4101: 'ni': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,33): warning C4101: 'sum': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,42): warning C4101: 'j1': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(34,64): warning C4101: 'color_table3': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(34,27): warning C4101: 'data3': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(42,24): warning C4101: 'idx_col': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(34,35): warning C4101: 'new_data': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(41,8): warning C4101: 'dataArray': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,38): warning C4101: 'i1': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,17): warning C4101: 'temp': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,50): warning C4101: 'mj': 未參考的區域變數
+C:\Users\ljsh0\source\repos\影像hw3_3\影像hw3_3\Roberts.c(39,46): warning C4101: 'mi': 未參考的區域變數
+  影像hw3_3.vcxproj -> C:\Users\ljsh0\source\repos\影像hw3_3\x64\Debug\影像hw3_3.exe

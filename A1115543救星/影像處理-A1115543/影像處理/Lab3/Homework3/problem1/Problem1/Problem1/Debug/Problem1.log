@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\user\desktop\a1115509\image process\homework3\problem1\problem1\problem1\main.cpp(44): warning C4101: 'temp2': 未參考的區域變數
+c:\users\user\desktop\a1115509\image process\homework3\problem1\problem1\problem1\main.cpp(43): warning C4101: 'new_data': 未參考的區域變數
+  Problem1.vcxproj -> C:\Users\user\Desktop\A1115509\image process\Homework3\problem1\Problem1\Debug\Problem1.exe
+  Problem1.vcxproj -> C:\Users\user\Desktop\A1115509\image process\Homework3\problem1\Problem1\Debug\Problem1.pdb (Partial PDB)
