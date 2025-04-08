@@ -1,4 +1,0 @@
-﻿  source.c
-C:\Users\ljsh0\source\repos\影像5_2\影像5_2\source.c(41,24): warning C4101: 'temp2': 未參考的區域變數
-C:\Users\ljsh0\source\repos\影像5_2\影像5_2\source.c(43,20): warning C4101: 'H': 未參考的區域變數
-  影像5_2.vcxproj -> C:\Users\ljsh0\source\repos\影像5_2\x64\Debug\影像5_2.exe

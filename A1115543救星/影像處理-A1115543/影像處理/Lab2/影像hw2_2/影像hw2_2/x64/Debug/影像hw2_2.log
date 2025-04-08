@@ -1,5 +1,0 @@
-﻿  subsample.c
-C:\Users\ljsh0\source\repos\影像hw2_2\影像hw2_2\subsample.c(53,14): warning C4101: 'k': 未參考的區域變數
-C:\Users\ljsh0\source\repos\影像hw2_2\影像hw2_2\subsample.c(53,17): warning C4101: 'p': 未參考的區域變數
-C:\Users\ljsh0\source\repos\影像hw2_2\影像hw2_2\subsample.c(53,11): warning C4101: 'j': 未參考的區域變數
-  影像hw2_2.vcxproj -> C:\Users\ljsh0\source\repos\影像hw2_2\x64\Debug\影像hw2_2.exe

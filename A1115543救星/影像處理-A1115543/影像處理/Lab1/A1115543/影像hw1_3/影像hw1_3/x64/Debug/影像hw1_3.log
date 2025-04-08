@@ -1,4 +1,0 @@
-﻿  Source.c
-C:\Users\ljsh0\source\repos\影像hw1_3\影像hw1_3\Source.c(28,31): warning C4101: 'new_data': 未參考的區域變數
-C:\Users\ljsh0\source\repos\影像hw1_3\影像hw1_3\Source.c(34,18): warning C4101: 'temp': 未參考的區域變數
-  影像hw1_3.vcxproj -> C:\Users\ljsh0\source\repos\影像hw1_3\x64\Debug\影像hw1_3.exe

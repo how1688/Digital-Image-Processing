@@ -1,6 +1,0 @@
-﻿  PlotCircle.c
-C:\Users\ljsh0\Desktop\Lab1\PlotCircle.c(39,33): warning C4101: 'sum': 未參考的區域變數
-C:\Users\ljsh0\Desktop\Lab1\PlotCircle.c(39,14): warning C4101: 'k': 未參考的區域變數
-C:\Users\ljsh0\Desktop\Lab1\PlotCircle.c(33,28): warning C4101: 'new_data': 未參考的區域變數
-C:\Users\ljsh0\Desktop\Lab1\PlotCircle.c(39,17): warning C4101: 'temp': 未參考的區域變數
-  Project41.vcxproj -> C:\Users\ljsh0\source\repos\Project41\x64\Debug\Project41.exe

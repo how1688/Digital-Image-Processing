@@ -1,7 +1,0 @@
-﻿  histo.c
-C:\Users\ljsh0\source\repos\影像hw3_1\影像hw3_1\histo.c(169,60): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\ljsh0\source\repos\影像hw3_1\影像hw3_1\histo.c(170,65): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\ljsh0\source\repos\影像hw3_1\影像hw3_1\histo.c(171,66): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\ljsh0\source\repos\影像hw3_1\影像hw3_1\histo.c(172,67): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\ljsh0\source\repos\影像hw3_1\影像hw3_1\histo.c(43,19): warning C4101: 'new_data': 未參考的區域變數
-  影像hw3_1.vcxproj -> C:\Users\ljsh0\source\repos\影像hw3_1\x64\Debug\影像hw3_1.exe

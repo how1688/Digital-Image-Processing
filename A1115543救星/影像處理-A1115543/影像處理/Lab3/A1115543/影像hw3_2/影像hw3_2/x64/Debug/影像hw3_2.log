@@ -1,5 +1,0 @@
-﻿  Roberts.c
-C:\Users\ljsh0\source\repos\影像hw3_2\影像hw3_2\Roberts.c(34,33): warning C4101: 'sum': 未參考的區域變數
-C:\Users\ljsh0\source\repos\影像hw3_2\影像hw3_2\Roberts.c(28,28): warning C4101: 'new_data': 未參考的區域變數
-C:\Users\ljsh0\source\repos\影像hw3_2\影像hw3_2\Roberts.c(34,17): warning C4101: 'temp': 未參考的區域變數
-  影像hw3_2.vcxproj -> C:\Users\ljsh0\source\repos\影像hw3_2\x64\Debug\影像hw3_2.exe
